@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PoorMansgym</string>
+    <string name="title_activity_machine">MachineActivity</string>
+    <string name="Date">Date</string>
+    <string name="reps">Reps</string>
+    <string name="sets">Sets</string>
+    <string name="Weight">0</string>
+    <!-- Strings used for fragments for navigation -->
+
+
+    <!-- Strings used for fragments for navigation -->
+
+</resources>

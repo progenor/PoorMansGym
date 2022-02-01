@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/progenor/AndroidStudioProjects/PoorMansgym/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/list_item.xml",
+        "source": "/home/progenor/AndroidStudioProjects/PoorMansgym/app/src/main/res/layout/list_item.xml"
+    },
+    {
+        "merged": "/home/progenor/AndroidStudioProjects/PoorMansgym/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/home/progenor/AndroidStudioProjects/PoorMansgym/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/progenor/AndroidStudioProjects/PoorMansgym/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_machine.xml",
+        "source": "/home/progenor/AndroidStudioProjects/PoorMansgym/app/src/main/res/layout/activity_machine.xml"
+    }
+]
